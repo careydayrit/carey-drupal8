@@ -1,10 +1,11 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "e5fad3ba6626eb2a12083f44c1409251",
+    "hash": "be0548e3e41d021902084ae75fdb54d8",
+    "content-hash": "1e238c2fcfcba6970112b9167bf466df",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -68,7 +69,7 @@
                 "tar",
                 "zip"
             ],
-            "time": "2018-02-22T13:58:36+00:00"
+            "time": "2018-02-22 13:58:36"
         },
         {
             "name": "asm89/stack-cors",
@@ -120,7 +121,7 @@
                 "cors",
                 "stack"
             ],
-            "time": "2017-12-20T14:37:45+00:00"
+            "time": "2017-12-20 14:37:45"
         },
         {
             "name": "brumann/polyfill-unserialize",
@@ -156,7 +157,7 @@
                 }
             ],
             "description": "Backports unserialize options introduced in PHP 7.0 to older PHP versions.",
-            "time": "2017-02-03T09:55:47+00:00"
+            "time": "2017-02-03 09:55:47"
         },
         {
             "name": "composer/installers",
@@ -276,7 +277,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2018-08-27T06:10:37+00:00"
+            "time": "2018-08-27 06:10:37"
         },
         {
             "name": "composer/semver",
@@ -338,7 +339,7 @@
                 "validation",
                 "versioning"
             ],
-            "time": "2019-03-19T17:25:45+00:00"
+            "time": "2019-03-19 17:25:45"
         },
         {
             "name": "consolidation/annotated-command",
@@ -434,7 +435,7 @@
                 }
             ],
             "description": "Initialize Symfony Console commands from annotated command class methods.",
-            "time": "2019-03-08T16:55:03+00:00"
+            "time": "2019-03-08 16:55:03"
         },
         {
             "name": "consolidation/output-formatters",
@@ -535,7 +536,7 @@
                 }
             ],
             "description": "Format text by applying transformations provided by plug-in formatters.",
-            "time": "2019-05-30T23:16:01+00:00"
+            "time": "2019-05-30 23:16:01"
         },
         {
             "name": "cweagans/composer-patches",
@@ -579,7 +580,7 @@
                 }
             ],
             "description": "Provides a way to patch Composer packages.",
-            "time": "2018-10-24T15:51:16+00:00"
+            "time": "2018-10-24 15:51:16"
         },
         {
             "name": "dflydev/dot-access-configuration",
@@ -639,7 +640,7 @@
                 "config",
                 "configuration"
             ],
-            "time": "2018-09-08T23:00:17+00:00"
+            "time": "2018-09-08 23:00:17"
         },
         {
             "name": "dflydev/dot-access-data",
@@ -698,7 +699,7 @@
                 "dot",
                 "notation"
             ],
-            "time": "2017-01-20T21:14:22+00:00"
+            "time": "2017-01-20 21:14:22"
         },
         {
             "name": "dflydev/placeholder-resolver",
@@ -750,7 +751,7 @@
                 "placeholder",
                 "resolver"
             ],
-            "time": "2012-10-28T21:08:28+00:00"
+            "time": "2012-10-28 21:08:28"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -783,7 +784,7 @@
                 "MIT"
             ],
             "description": "implementation of xdg base directory specification for php",
-            "time": "2014-10-24T07:27:01+00:00"
+            "time": "2014-10-24 07:27:01"
         },
         {
             "name": "doctrine/annotations",
@@ -851,7 +852,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2015-08-31T12:32:49+00:00"
+            "time": "2015-08-31 12:32:49"
         },
         {
             "name": "doctrine/cache",
@@ -921,7 +922,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2017-07-22T12:49:21+00:00"
+            "time": "2017-07-22 12:49:21"
         },
         {
             "name": "doctrine/collections",
@@ -987,7 +988,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2015-04-14T22:21:58+00:00"
+            "time": "2015-04-14 22:21:58"
         },
         {
             "name": "doctrine/common",
@@ -1060,7 +1061,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2016-11-30T16:50:46+00:00"
+            "time": "2016-11-30 16:50:46"
         },
         {
             "name": "doctrine/inflector",
@@ -1127,7 +1128,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2015-11-06T14:35:42+00:00"
+            "time": "2015-11-06 14:35:42"
         },
         {
             "name": "doctrine/lexer",
@@ -1181,7 +1182,7 @@
                 "lexer",
                 "parser"
             ],
-            "time": "2014-09-09T13:34:57+00:00"
+            "time": "2014-09-09 13:34:57"
         },
         {
             "name": "drupal-composer/drupal-scaffold",
@@ -1225,7 +1226,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Composer Plugin for updating the Drupal scaffold files when using drupal/core",
-            "time": "2019-03-30T10:41:38+00:00"
+            "time": "2019-03-30 10:41:38"
         },
         {
             "name": "drupal/config_direct_save",
@@ -1397,7 +1398,7 @@
                 "drupal",
                 "symfony"
             ],
-            "time": "2019-08-20T18:57:52+00:00"
+            "time": "2019-08-20 18:57:52"
         },
         {
             "name": "drupal/console-core",
@@ -1479,7 +1480,7 @@
                 "drupal",
                 "symfony"
             ],
-            "time": "2019-08-20T18:40:00+00:00"
+            "time": "2019-08-20 18:40:00"
         },
         {
             "name": "drupal/console-en",
@@ -1533,7 +1534,7 @@
                 "drupal",
                 "symfony"
             ],
-            "time": "2019-08-05T20:11:09+00:00"
+            "time": "2019-08-05 20:11:09"
         },
         {
             "name": "drupal/console-extend-plugin",
@@ -1574,20 +1575,20 @@
                 }
             ],
             "description": "Drupal Console Extend Plugin",
-            "time": "2017-07-28T17:11:54+00:00"
+            "time": "2017-07-28 17:11:54"
         },
         {
             "name": "drupal/core",
-            "version": "8.7.6",
+            "version": "8.7.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "39164616332832e1456199d32fc3ed11562f4721"
+                "reference": "476f491b85306c09101106d9b66a5dbe73c21bf0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/39164616332832e1456199d32fc3ed11562f4721",
-                "reference": "39164616332832e1456199d32fc3ed11562f4721",
+                "url": "https://api.github.com/repos/drupal/core/zipball/476f491b85306c09101106d9b66a5dbe73c21bf0",
+                "reference": "476f491b85306c09101106d9b66a5dbe73c21bf0",
                 "shasum": ""
             },
             "require": {
@@ -1625,7 +1626,7 @@
                 "symfony/http-kernel": "~3.4.14",
                 "symfony/polyfill-iconv": "^1.0",
                 "symfony/process": "~3.4.0",
-                "symfony/psr-http-message-bridge": "^1.0",
+                "symfony/psr-http-message-bridge": "^1.1.2",
                 "symfony/routing": "~3.4.0",
                 "symfony/serializer": "~3.4.0",
                 "symfony/translation": "~3.4.0",
@@ -1637,7 +1638,8 @@
                 "zendframework/zend-feed": "^2.4"
             },
             "conflict": {
-                "drush/drush": "<8.1.10"
+                "drush/drush": "<8.1.10",
+                "symfony/dom-crawler": ">=4"
             },
             "replace": {
                 "drupal/action": "self.version",
@@ -1818,7 +1820,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
-            "time": "2019-08-07T19:19:20+00:00"
+            "time": "2019-10-02 18:41:30"
         },
         {
             "name": "drupal/drupal-driver",
@@ -1877,7 +1879,7 @@
                 "test",
                 "web"
             ],
-            "time": "2018-02-09T18:02:28+00:00"
+            "time": "2018-02-09 18:02:28"
         },
         {
             "name": "drush-ops/behat-drush-endpoint",
@@ -1912,7 +1914,7 @@
                 "Drush",
                 "testing"
             ],
-            "time": "2019-03-29T17:31:34+00:00"
+            "time": "2019-03-29 17:31:34"
         },
         {
             "name": "drush/drush",
@@ -2025,7 +2027,7 @@
             ],
             "description": "Drush is a command line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those of us who spend some of our working hours hacking away at the command prompt.",
             "homepage": "http://www.drush.org",
-            "time": "2019-07-09T21:53:08+00:00"
+            "time": "2019-07-09 21:53:08"
         },
         {
             "name": "easyrdf/easyrdf",
@@ -2087,7 +2089,7 @@
                 "rdfa",
                 "sparql"
             ],
-            "time": "2015-02-27T09:45:49+00:00"
+            "time": "2015-02-27 09:45:49"
         },
         {
             "name": "egulias/email-validator",
@@ -2144,7 +2146,7 @@
                 "validation",
                 "validator"
             ],
-            "time": "2018-12-04T22:38:24+00:00"
+            "time": "2018-12-04 22:38:24"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -2209,7 +2211,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2018-04-22T15:46:56+00:00"
+            "time": "2018-04-22 15:46:56"
         },
         {
             "name": "guzzlehttp/promises",
@@ -2260,7 +2262,7 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2016-12-20T10:07:11+00:00"
+            "time": "2016-12-20 10:07:11"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -2325,7 +2327,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2017-03-20T17:10:46+00:00"
+            "time": "2017-03-20 17:10:46"
         },
         {
             "name": "jakub-onderka/php-console-color",
@@ -2367,7 +2369,7 @@
                     "email": "jakub.onderka@gmail.com"
                 }
             ],
-            "time": "2018-09-29T17:23:10+00:00"
+            "time": "2018-09-29 17:23:10"
         },
         {
             "name": "jakub-onderka/php-console-highlighter",
@@ -2413,7 +2415,7 @@
                 }
             ],
             "description": "Highlight PHP code in terminal",
-            "time": "2018-09-29T18:48:56+00:00"
+            "time": "2018-09-29 18:48:56"
         },
         {
             "name": "masterminds/html5",
@@ -2478,7 +2480,7 @@
                 "serializer",
                 "xml"
             ],
-            "time": "2017-09-04T12:26:28+00:00"
+            "time": "2017-09-04 12:26:28"
         },
         {
             "name": "nikic/php-parser",
@@ -2529,7 +2531,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2019-08-12T20:17:41+00:00"
+            "time": "2019-08-12 20:17:41"
         },
         {
             "name": "pantheon-systems/quicksilver-pushback",
@@ -2554,7 +2556,7 @@
                 "MIT"
             ],
             "description": "Push commits made via the Pantheon dashboard back to original GitHub repository.",
-            "time": "2019-08-28T09:58:06+00:00"
+            "time": "2019-08-28 09:58:06"
         },
         {
             "name": "paragonie/random_compat",
@@ -2603,7 +2605,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2019-01-03T20:59:08+00:00"
+            "time": "2019-01-03 20:59:08"
         },
         {
             "name": "pear/archive_tar",
@@ -2669,7 +2671,7 @@
                 "archive",
                 "tar"
             ],
-            "time": "2019-02-01T11:10:38+00:00"
+            "time": "2019-02-01 11:10:38"
         },
         {
             "name": "pear/console_getopt",
@@ -2716,7 +2718,7 @@
                 }
             ],
             "description": "More info available on: http://pear.php.net/package/Console_Getopt",
-            "time": "2015-07-20T20:28:12+00:00"
+            "time": "2015-07-20 20:28:12"
         },
         {
             "name": "pear/console_table",
@@ -2771,7 +2773,7 @@
             "keywords": [
                 "console"
             ],
-            "time": "2018-01-25T20:47:17+00:00"
+            "time": "2018-01-25 20:47:17"
         },
         {
             "name": "pear/pear-core-minimal",
@@ -2815,7 +2817,7 @@
                 }
             ],
             "description": "Minimal set of PEAR core files to be used as composer dependency",
-            "time": "2018-12-05T20:03:52+00:00"
+            "time": "2018-12-05 20:03:52"
         },
         {
             "name": "pear/pear_exception",
@@ -2870,7 +2872,7 @@
             "keywords": [
                 "exception"
             ],
-            "time": "2015-02-10T20:07:52+00:00"
+            "time": "2015-02-10 20:07:52"
         },
         {
             "name": "psr/container",
@@ -2919,7 +2921,7 @@
                 "container-interop",
                 "psr"
             ],
-            "time": "2017-02-14T16:28:37+00:00"
+            "time": "2017-02-14 16:28:37"
         },
         {
             "name": "psr/http-message",
@@ -2969,7 +2971,7 @@
                 "request",
                 "response"
             ],
-            "time": "2016-08-06T14:39:51+00:00"
+            "time": "2016-08-06 14:39:51"
         },
         {
             "name": "psr/log",
@@ -3016,7 +3018,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10T12:19:37+00:00"
+            "time": "2016-10-10 12:19:37"
         },
         {
             "name": "psy/psysh",
@@ -3090,7 +3092,7 @@
                 "interactive",
                 "shell"
             ],
-            "time": "2018-10-13T15:16:03+00:00"
+            "time": "2018-10-13 15:16:03"
         },
         {
             "name": "rvtraveller/qs-composer-installer",
@@ -3128,7 +3130,7 @@
             ],
             "description": "Install Quicksilver modules for Pantheon into custom locations.",
             "homepage": "https://github.com/rvtraveller/qs-composer-installer",
-            "time": "2017-01-27T20:40:31+00:00"
+            "time": "2017-01-27 20:40:31"
         },
         {
             "name": "stack/builder",
@@ -3177,7 +3179,7 @@
             "keywords": [
                 "stack"
             ],
-            "time": "2017-11-18T14:57:29+00:00"
+            "time": "2017-11-18 14:57:29"
         },
         {
             "name": "stecman/symfony-console-completion",
@@ -3222,7 +3224,7 @@
                 }
             ],
             "description": "Automatic BASH completion for Symfony Console Component based applications.",
-            "time": "2019-04-29T03:20:18+00:00"
+            "time": "2019-04-29 03:20:18"
         },
         {
             "name": "symfony-cmf/routing",
@@ -3281,7 +3283,7 @@
                 "database",
                 "routing"
             ],
-            "time": "2017-05-09T08:10:41+00:00"
+            "time": "2017-05-09 08:10:41"
         },
         {
             "name": "symfony/class-loader",
@@ -3337,7 +3339,7 @@
             ],
             "description": "Symfony ClassLoader Component",
             "homepage": "https://symfony.com",
-            "time": "2019-01-16T09:39:14+00:00"
+            "time": "2019-01-16 09:39:14"
         },
         {
             "name": "symfony/config",
@@ -3401,7 +3403,7 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "https://symfony.com",
-            "time": "2019-07-17T15:23:18+00:00"
+            "time": "2019-07-17 15:23:18"
         },
         {
             "name": "symfony/console",
@@ -3473,7 +3475,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-08T09:29:13+00:00"
+            "time": "2019-04-08 09:29:13"
         },
         {
             "name": "symfony/css-selector",
@@ -3526,7 +3528,7 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "https://symfony.com",
-            "time": "2018-11-11T11:18:13+00:00"
+            "time": "2018-11-11 11:18:13"
         },
         {
             "name": "symfony/debug",
@@ -3582,7 +3584,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-11T09:48:14+00:00"
+            "time": "2019-04-11 09:48:14"
         },
         {
             "name": "symfony/dependency-injection",
@@ -3653,7 +3655,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-16T11:13:42+00:00"
+            "time": "2019-04-16 11:13:42"
         },
         {
             "name": "symfony/dom-crawler",
@@ -3710,7 +3712,7 @@
             ],
             "description": "Symfony DomCrawler Component",
             "homepage": "https://symfony.com",
-            "time": "2019-05-30T15:47:52+00:00"
+            "time": "2019-05-30 15:47:52"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -3773,7 +3775,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-02T08:51:52+00:00"
+            "time": "2019-04-02 08:51:52"
         },
         {
             "name": "symfony/filesystem",
@@ -3823,7 +3825,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2019-06-23T09:29:17+00:00"
+            "time": "2019-06-23 09:29:17"
         },
         {
             "name": "symfony/finder",
@@ -3872,7 +3874,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2019-06-28T08:02:59+00:00"
+            "time": "2019-06-28 08:02:59"
         },
         {
             "name": "symfony/http-foundation",
@@ -3926,7 +3928,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
-            "time": "2019-05-01T08:04:33+00:00"
+            "time": "2019-05-01 08:04:33"
         },
         {
             "name": "symfony/http-kernel",
@@ -4015,7 +4017,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-17T15:57:07+00:00"
+            "time": "2019-04-17 15:57:07"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -4073,7 +4075,7 @@
                 "polyfill",
                 "portable"
             ],
-            "time": "2019-02-06T07:57:58+00:00"
+            "time": "2019-02-06 07:57:58"
         },
         {
             "name": "symfony/polyfill-iconv",
@@ -4132,7 +4134,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2019-02-06T07:57:58+00:00"
+            "time": "2019-02-06 07:57:58"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -4191,7 +4193,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2019-02-06T07:57:58+00:00"
+            "time": "2019-02-06 07:57:58"
         },
         {
             "name": "symfony/polyfill-php70",
@@ -4250,7 +4252,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2019-02-06T07:57:58+00:00"
+            "time": "2019-02-06 07:57:58"
         },
         {
             "name": "symfony/process",
@@ -4299,7 +4301,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-08T16:15:54+00:00"
+            "time": "2019-04-08 16:15:54"
         },
         {
             "name": "symfony/psr-http-message-bridge",
@@ -4362,7 +4364,7 @@
                 "psr-17",
                 "psr-7"
             ],
-            "time": "2019-04-03T17:09:40+00:00"
+            "time": "2019-04-03 17:09:40"
         },
         {
             "name": "symfony/routing",
@@ -4438,7 +4440,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2019-03-29T21:58:42+00:00"
+            "time": "2019-03-29 21:58:42"
         },
         {
             "name": "symfony/serializer",
@@ -4517,7 +4519,7 @@
             ],
             "description": "Symfony Serializer Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-11T05:44:34+00:00"
+            "time": "2019-04-11 05:44:34"
         },
         {
             "name": "symfony/translation",
@@ -4587,7 +4589,7 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-10T16:00:48+00:00"
+            "time": "2019-04-10 16:00:48"
         },
         {
             "name": "symfony/validator",
@@ -4672,7 +4674,7 @@
             ],
             "description": "Symfony Validator Component",
             "homepage": "https://symfony.com",
-            "time": "2019-04-16T11:21:44+00:00"
+            "time": "2019-04-16 11:21:44"
         },
         {
             "name": "symfony/var-dumper",
@@ -4741,7 +4743,7 @@
                 "debug",
                 "dump"
             ],
-            "time": "2019-07-26T11:29:23+00:00"
+            "time": "2019-07-26 11:29:23"
         },
         {
             "name": "symfony/yaml",
@@ -4800,7 +4802,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2019-03-25T07:48:46+00:00"
+            "time": "2019-03-25 07:48:46"
         },
         {
             "name": "twig/twig",
@@ -4866,7 +4868,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2019-03-23T14:27:19+00:00"
+            "time": "2019-03-23 14:27:19"
         },
         {
             "name": "typo3/phar-stream-wrapper",
@@ -4912,7 +4914,7 @@
                 "security",
                 "stream-wrapper"
             ],
-            "time": "2019-05-14T13:14:31+00:00"
+            "time": "2019-05-14 13:14:31"
         },
         {
             "name": "webflo/drupal-core-strict",
@@ -5023,7 +5025,7 @@
                 "GPL-2.0-or-later"
             ],
             "description": "Locked core dependencies",
-            "time": "2019-08-07T19:30:50+00:00"
+            "time": "2019-08-07 19:30:50"
         },
         {
             "name": "webflo/drupal-finder",
@@ -5063,7 +5065,7 @@
                 }
             ],
             "description": "Helper class to locate a Drupal installation from a given path.",
-            "time": "2019-08-02T08:06:18+00:00"
+            "time": "2019-08-02 08:06:18"
         },
         {
             "name": "webmozart/assert",
@@ -5113,7 +5115,7 @@
                 "check",
                 "validate"
             ],
-            "time": "2019-08-24T08:43:50+00:00"
+            "time": "2019-08-24 08:43:50"
         },
         {
             "name": "webmozart/path-util",
@@ -5159,7 +5161,7 @@
                 }
             ],
             "description": "A robust cross-platform utility for normalizing, comparing and modifying file paths.",
-            "time": "2015-12-17T08:42:14+00:00"
+            "time": "2015-12-17 08:42:14"
         },
         {
             "name": "wikimedia/composer-merge-plugin",
@@ -5208,7 +5210,7 @@
                 }
             ],
             "description": "Composer plugin to merge multiple composer.json files",
-            "time": "2017-04-25T02:31:25+00:00"
+            "time": "2017-04-25 02:31:25"
         },
         {
             "name": "zaporylie/composer-drupal-optimizations",
@@ -5251,7 +5253,7 @@
                 }
             ],
             "description": "Composer plugin to improve composer performance for Drupal projects",
-            "time": "2019-02-20T10:00:17+00:00"
+            "time": "2019-02-20 10:00:17"
         },
         {
             "name": "zendframework/zend-diactoros",
@@ -5303,7 +5305,7 @@
                 "psr",
                 "psr-7"
             ],
-            "time": "2017-08-17T21:21:00+00:00"
+            "time": "2017-08-17 21:21:00"
         },
         {
             "name": "zendframework/zend-escaper",
@@ -5347,7 +5349,7 @@
                 "escaper",
                 "zf2"
             ],
-            "time": "2016-06-30T19:48:38+00:00"
+            "time": "2016-06-30 19:48:38"
         },
         {
             "name": "zendframework/zend-feed",
@@ -5408,7 +5410,7 @@
                 "feed",
                 "zf2"
             ],
-            "time": "2016-02-11T18:54:29+00:00"
+            "time": "2016-02-11 18:54:29"
         },
         {
             "name": "zendframework/zend-stdlib",
@@ -5453,7 +5455,7 @@
                 "stdlib",
                 "zf2"
             ],
-            "time": "2016-04-12T21:19:36+00:00"
+            "time": "2016-04-12 21:19:36"
         }
     ],
     "packages-dev": [
@@ -5533,7 +5535,7 @@
                 "symfony",
                 "testing"
             ],
-            "time": "2018-08-10T18:56:51+00:00"
+            "time": "2018-08-10 18:56:51"
         },
         {
             "name": "behat/gherkin",
@@ -5592,7 +5594,7 @@
                 "gherkin",
                 "parser"
             ],
-            "time": "2019-01-16T14:22:17+00:00"
+            "time": "2019-01-16 14:22:17"
         },
         {
             "name": "behat/mink",
@@ -5650,7 +5652,7 @@
                 "testing",
                 "web"
             ],
-            "time": "2016-03-05T08:26:18+00:00"
+            "time": "2016-03-05 08:26:18"
         },
         {
             "name": "behat/mink-browserkit-driver",
@@ -5706,7 +5708,7 @@
                 "browser",
                 "testing"
             ],
-            "time": "2018-05-02T09:25:31+00:00"
+            "time": "2018-05-02 09:25:31"
         },
         {
             "name": "behat/mink-extension",
@@ -5765,7 +5767,7 @@
                 "test",
                 "web"
             ],
-            "time": "2018-02-06T15:36:30+00:00"
+            "time": "2018-02-06 15:36:30"
         },
         {
             "name": "behat/mink-goutte-driver",
@@ -5820,7 +5822,7 @@
                 "headless",
                 "testing"
             ],
-            "time": "2016-03-05T09:04:22+00:00"
+            "time": "2016-03-05 09:04:22"
         },
         {
             "name": "behat/mink-selenium2-driver",
@@ -5881,7 +5883,7 @@
                 "testing",
                 "webdriver"
             ],
-            "time": "2016-03-05T09:10:18+00:00"
+            "time": "2016-03-05 09:10:18"
         },
         {
             "name": "behat/transliterator",
@@ -5925,7 +5927,7 @@
                 "slug",
                 "transliterator"
             ],
-            "time": "2017-04-04T11:38:05+00:00"
+            "time": "2017-04-04 11:38:05"
         },
         {
             "name": "container-interop/container-interop",
@@ -5956,7 +5958,7 @@
             ],
             "description": "Promoting the interoperability of container objects (DIC, SL, etc.)",
             "homepage": "https://github.com/container-interop/container-interop",
-            "time": "2017-02-14T19:40:03+00:00"
+            "time": "2017-02-14 19:40:03"
         },
         {
             "name": "dealerdirect/phpcodesniffer-composer-installer",
@@ -6022,7 +6024,7 @@
                 "stylecheck",
                 "tests"
             ],
-            "time": "2018-10-26T13:21:45+00:00"
+            "time": "2018-10-26 13:21:45"
         },
         {
             "name": "dmore/behat-chrome-extension",
@@ -6070,7 +6072,7 @@
                 "driver",
                 "headless"
             ],
-            "time": "2019-03-30T08:57:34+00:00"
+            "time": "2019-03-30 08:57:34"
         },
         {
             "name": "dmore/chrome-mink-driver",
@@ -6118,7 +6120,7 @@
                 }
             ],
             "description": "Mink driver for controlling chrome without selenium",
-            "time": "2019-03-30T09:22:58+00:00"
+            "time": "2019-03-30 09:22:58"
         },
         {
             "name": "doctrine/instantiator",
@@ -6172,7 +6174,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2015-06-14T21:17:01+00:00"
+            "time": "2015-06-14 21:17:01"
         },
         {
             "name": "drupal/coder",
@@ -6209,7 +6211,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2019-08-09T09:27:26+00:00"
+            "time": "2019-08-09 09:27:26"
         },
         {
             "name": "drupal/drupal-extension",
@@ -6279,7 +6281,7 @@
                 "test",
                 "web"
             ],
-            "time": "2017-12-06T20:35:40+00:00"
+            "time": "2017-12-06 20:35:40"
         },
         {
             "name": "fabpot/goutte",
@@ -6334,7 +6336,7 @@
             "keywords": [
                 "scraper"
             ],
-            "time": "2018-06-29T15:13:57+00:00"
+            "time": "2018-06-29 15:13:57"
         },
         {
             "name": "genesis/behat-fail-aid",
@@ -6382,7 +6384,7 @@
                 "error",
                 "fail"
             ],
-            "time": "2019-08-06T10:39:33+00:00"
+            "time": "2019-08-06 10:39:33"
         },
         {
             "name": "instaclick/php-webdriver",
@@ -6441,7 +6443,7 @@
                 "webdriver",
                 "webtest"
             ],
-            "time": "2017-06-30T04:02:48+00:00"
+            "time": "2017-06-30 04:02:48"
         },
         {
             "name": "jcalderonzumba/gastonjs",
@@ -6498,7 +6500,7 @@
                 "headless",
                 "phantomjs"
             ],
-            "time": "2017-03-31T07:31:47+00:00"
+            "time": "2017-03-31 07:31:47"
         },
         {
             "name": "jcalderonzumba/mink-phantomjs-driver",
@@ -6556,7 +6558,7 @@
                 "phantomjs",
                 "testing"
             ],
-            "time": "2016-12-01T10:57:30+00:00"
+            "time": "2016-12-01 10:57:30"
         },
         {
             "name": "mikey179/vfsstream",
@@ -6596,13 +6598,13 @@
             "authors": [
                 {
                     "name": "Frank Kleine",
-                    "role": "Developer",
-                    "homepage": "http://frankkleine.de/"
+                    "homepage": "http://frankkleine.de/",
+                    "role": "Developer"
                 }
             ],
             "description": "Virtual file system to mock the real file system in unit tests.",
             "homepage": "http://vfs.bovigo.org/",
-            "time": "2019-08-01T01:38:37+00:00"
+            "time": "2019-08-01 01:38:37"
         },
         {
             "name": "phpdocumentor/reflection-common",
@@ -6656,7 +6658,7 @@
                 "reflection",
                 "static analysis"
             ],
-            "time": "2017-09-11T18:02:19+00:00"
+            "time": "2017-09-11 18:02:19"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -6707,7 +6709,7 @@
                 }
             ],
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
-            "time": "2019-04-30T17:48:53+00:00"
+            "time": "2019-04-30 17:48:53"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -6754,7 +6756,7 @@
                     "email": "me@mikevanriel.com"
                 }
             ],
-            "time": "2017-07-14T14:27:02+00:00"
+            "time": "2017-07-14 14:27:02"
         },
         {
             "name": "phpspec/prophecy",
@@ -6817,7 +6819,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2019-06-13T12:50:23+00:00"
+            "time": "2019-06-13 12:50:23"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -6879,7 +6881,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2015-10-06T15:47:00+00:00"
+            "time": "2015-10-06 15:47:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -6926,7 +6928,7 @@
                 "filesystem",
                 "iterator"
             ],
-            "time": "2017-11-27T13:52:08+00:00"
+            "time": "2017-11-27 13:52:08"
         },
         {
             "name": "phpunit/php-text-template",
@@ -6967,7 +6969,7 @@
             "keywords": [
                 "template"
             ],
-            "time": "2015-06-21T13:50:34+00:00"
+            "time": "2015-06-21 13:50:34"
         },
         {
             "name": "phpunit/php-timer",
@@ -7016,7 +7018,7 @@
             "keywords": [
                 "timer"
             ],
-            "time": "2017-02-26T11:10:40+00:00"
+            "time": "2017-02-26 11:10:40"
         },
         {
             "name": "phpunit/php-token-stream",
@@ -7065,7 +7067,7 @@
             "keywords": [
                 "tokenizer"
             ],
-            "time": "2017-12-04T08:55:13+00:00"
+            "time": "2017-12-04 08:55:13"
         },
         {
             "name": "phpunit/phpunit",
@@ -7137,7 +7139,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2017-06-21T08:07:12+00:00"
+            "time": "2017-06-21 08:07:12"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -7194,7 +7196,7 @@
                 "xunit"
             ],
             "abandoned": true,
-            "time": "2015-10-02T06:51:40+00:00"
+            "time": "2015-10-02 06:51:40"
         },
         {
             "name": "sebastian/comparator",
@@ -7258,7 +7260,7 @@
                 "compare",
                 "equality"
             ],
-            "time": "2017-01-29T09:50:25+00:00"
+            "time": "2017-01-29 09:50:25"
         },
         {
             "name": "sebastian/diff",
@@ -7310,7 +7312,7 @@
             "keywords": [
                 "diff"
             ],
-            "time": "2017-05-22T07:24:03+00:00"
+            "time": "2017-05-22 07:24:03"
         },
         {
             "name": "sebastian/environment",
@@ -7360,7 +7362,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2016-08-18T05:49:44+00:00"
+            "time": "2016-08-18 05:49:44"
         },
         {
             "name": "sebastian/exporter",
@@ -7427,7 +7429,7 @@
                 "export",
                 "exporter"
             ],
-            "time": "2016-06-17T09:04:28+00:00"
+            "time": "2016-06-17 09:04:28"
         },
         {
             "name": "sebastian/global-state",
@@ -7478,7 +7480,7 @@
             "keywords": [
                 "global state"
             ],
-            "time": "2015-10-12T03:26:01+00:00"
+            "time": "2015-10-12 03:26:01"
         },
         {
             "name": "sebastian/recursion-context",
@@ -7531,7 +7533,7 @@
             ],
             "description": "Provides functionality to recursively process PHP variables",
             "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
-            "time": "2016-10-03T07:41:43+00:00"
+            "time": "2016-10-03 07:41:43"
         },
         {
             "name": "sebastian/version",
@@ -7566,7 +7568,7 @@
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
-            "time": "2015-06-21T13:59:46+00:00"
+            "time": "2015-06-21 13:59:46"
         },
         {
             "name": "squizlabs/php_codesniffer",
@@ -7617,7 +7619,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2019-04-10T23:49:02+00:00"
+            "time": "2019-04-10 23:49:02"
         },
         {
             "name": "symfony/browser-kit",
@@ -7674,7 +7676,7 @@
             ],
             "description": "Symfony BrowserKit Component",
             "homepage": "https://symfony.com",
-            "time": "2019-06-09T14:27:26+00:00"
+            "time": "2019-06-09 14:27:26"
         },
         {
             "name": "textalk/websocket",
@@ -7713,7 +7715,7 @@
                 }
             ],
             "description": "WebSocket client and server",
-            "time": "2015-10-09T07:32:42+00:00"
+            "time": "2015-10-09 07:32:42"
         }
     ],
     "aliases": [],
